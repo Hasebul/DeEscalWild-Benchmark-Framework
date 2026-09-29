@@ -1,5 +1,5 @@
 # DeEscalWild: A Real-World Benchmark for Automated De-Escalation Training with SLMs
-
+# DeEscalWild Accepted at NeurIPS E&D Track
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Paper Status](https://img.shields.io/badge/Status-Under%20Review-red)](https://icml.cc/)
 [![Paper](https://img.shields.io/badge/Paper-Link-blue)](https://arxiv.org/abs/2604.13075)
