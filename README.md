@@ -437,7 +437,7 @@ If you use **DeEscalWild** in your research, please cite our paper:
 @inproceedings{hasan2026DeEscalWild,
   title     = {DeEscalWild: A Real-World Benchmark for Automated De-Escalation Training with {SLMs}},
   author    = {Hasan, Md Hasebul and Charu, Krity Haque and Sridhar, Eshwara Prasad and Deb, Shuchisnigdha and Islam, Mohammad A.},
-  booktitle = {Submitted to The Fortieth Annual Conference on Neural Information Processing Systems Evaluations and Datasets Track},
+  booktitle = {Accepted to The Fortieth Annual Conference on Neural Information Processing Systems Evaluations and Datasets Track},
   year      = {2026}
 }
 ```
